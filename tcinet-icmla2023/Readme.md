@@ -10,8 +10,5 @@ In this repository, we have following folders:
 1. Data 
 2. Models 
 
-## Dataset
-
-
 ## Citation
 If you use this code for your research, please cite our paper.
