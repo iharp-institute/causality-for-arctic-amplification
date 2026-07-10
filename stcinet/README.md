@@ -8,3 +8,17 @@ In this repository, we have the following folders:
 1. Data (code to generate synthetic data) 
 2. Baselines (existing causal inference methods for time-series and spatial data)
 3. Models (variants of our proposed STCINet)
+
+## Citation
+If you use this code for your research, please cite our work:
+
+```
+@inproceedings{ali2024estimating,
+  title={Estimating direct and indirect causal effects of spatiotemporal interventions in presence of spatial interference},
+  author={Ali, Sahara and Faruque, Omar and Wang, Jianwu},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={213--230},
+  year={2024},
+  organization={Springer}
+}
+```
