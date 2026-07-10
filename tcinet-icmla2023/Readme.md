@@ -11,4 +11,14 @@ In this repository, we have following folders:
 2. Models 
 
 ## Citation
-If you use this code for your research, please cite our paper.
+If you use this code for your research, please cite our paper:
+```
+@inproceedings{ali2023quantifying,
+  title={Quantifying causes of arctic amplification via deep learning based time-series causal inference},
+  author={Ali, Sahara and Faruque, Omar and Huang, Yiyi and Gani, Md Osman and Subramanian, Aneesh and Schlegel, Nicole-Jeanne and Wang, Jianwu},
+  booktitle={2023 International Conference on Machine Learning and Applications (ICMLA)},
+  pages={689--696},
+  year={2023},
+  organization={IEEE}
+}
+```
